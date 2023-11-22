@@ -1203,7 +1203,7 @@ body.resize .arlo_tm_mainpart{
 	clear: both;
 	float: left;
 	background-color: #f9f9f9;
-	padding: 140px 0px 130px 0px;
+	padding: 20px 0px 100px 0px;
 }
 .arlo_tm_skills .skills_title{
 	width: 100%;
@@ -1277,7 +1277,7 @@ body.resize .arlo_tm_mainpart{
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 140px 0px 160px 0px;
+	padding: 50px 0px 50px 0px;
 }
 .arlo_tm_portfolio .portfolio_filter{
 	width: 100%;
@@ -1677,7 +1677,7 @@ body.resize .arlo_tm_mainpart{
 	z-index: 2;
 	display: flex;
 	align-items: center;
-	padding: 130px 0px 235px 0px;
+	padding: 50px 0px 200px 0px;
 	width: 100%;
 	max-width: 600px;
 	margin: 0px auto;
@@ -2204,7 +2204,7 @@ body.resize .arlo_tm_mainpart{
 	clear: both;
 	float: left;
 	background-color: #f9f9f9;
-	padding: 140px 0px 150px 0px;
+	padding: 0px 0px 100px 0px;
 }
 .arlo_tm_contact .inner{
 	width: 100%;
